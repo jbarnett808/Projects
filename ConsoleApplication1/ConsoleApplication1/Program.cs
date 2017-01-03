@@ -8,6 +8,10 @@ namespace ConsoleApplication1
 {
     class Program
     {
+        /// <summary>
+        /// Add Comments
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine("Hi Y'all!");
